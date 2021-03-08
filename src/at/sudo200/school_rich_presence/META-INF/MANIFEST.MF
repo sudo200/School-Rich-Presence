@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: at.sudo200.school_rich_presence.Main
+

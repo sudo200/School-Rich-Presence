@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="School Rich Presence">
+    <output-path>$PROJECT_DIR$/out/artifacts/School_Rich_Presence</output-path>
+    <root id="archive" name="School Rich Presence.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/at/sudo200/school_rich_presence/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Schule Rich Presence" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/discord-rpc.jar" path-in-jar="/" />
+      <element id="directory" name="resources">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/at/sudo200/school_rich_presence/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
